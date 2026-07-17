@@ -1,0 +1,26 @@
+# Confidential or source project materials must not be committed.
+*.csv
+*.xlsx
+*.xls
+*.pbix
+*.pbit
+*.db
+*.sqlite
+*.ipynb
+*.zip
+*.7z
+*.rar
+*.docx
+*.pptx
+*.pdf
+
+# Local working files
+.env
+.env.*
+~$*
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+venv/
+
